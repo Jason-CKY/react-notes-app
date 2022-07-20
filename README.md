@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+Static site available on [github pages](https://jason-cky.github.io/react-notes-app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
